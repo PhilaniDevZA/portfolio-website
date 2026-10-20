@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Philani! 👋
 
-<!--
-**PhilaniDevZA/PhilaniDevZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Diploma Student | 💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building web applications, developing software, and working with databases. I'm continuously improving my programming skills by learning new technologies and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Technologies
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Backend:** PHP, Java, C#
+* **Database:** MySQL, SQL
+* **Tools:** Git, GitHub
+
+### 🚀 My Goals
+
+* Build practical and useful applications.
+* Improve my full-stack development skills.
+* Create projects that demonstrate my abilities.
+* Continue growing as a software developer.
+
+### 📫 Connect With Me
+
+* GitHub: [PhilaniDevZA](https://github.com/PhilaniDevZA)
