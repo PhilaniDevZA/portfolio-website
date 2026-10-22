@@ -5,9 +5,6 @@ A project developed to improve my programming skills and gain practical experien
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
-- PHP
-- MySQL
 
 ## Status
 🚧 Currently under development.
